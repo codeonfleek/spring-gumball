@@ -55,5 +55,5 @@ Proof of Success
 
 ## Lab Notes
 
-# I used Stack overflow to debug problems I faced during the Git Setup.
-# I was very confused on the making the roles when when I needed to create services on IAM on google cloud, I resolved this by looking at the roles available then I selected owner since this role has all access. 
+I used Stack overflow to debug problems I faced during the Git Setup.
+I was very confused on the making the roles when when I needed to create services on IAM on google cloud, I resolved this by looking at the roles available then I selected owner since this role has all access. 
